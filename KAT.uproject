@@ -126,6 +126,10 @@
 		{
 			"Name": "MotionWarping",
 			"Enabled": true
+		},
+		{
+			"Name": "MultiUserClient",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
