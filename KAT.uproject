@@ -75,10 +75,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "SteamAudio",
-			"Enabled": true
-		},
-		{
 			"Name": "SocketSubsystemSteamIP",
 			"Enabled": true
 		},
@@ -137,6 +133,10 @@
 		},
 		{
 			"Name": "StormSyncAvalancheBridge",
+			"Enabled": true
+		},
+		{
+			"Name": "SteamAudio",
 			"Enabled": true
 		}
 	],
