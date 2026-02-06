@@ -134,10 +134,6 @@
 		{
 			"Name": "StormSyncAvalancheBridge",
 			"Enabled": true
-		},
-		{
-			"Name": "SteamAudio",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
